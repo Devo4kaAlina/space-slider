@@ -4,7 +4,7 @@ $(document).ready(function () {
 		dots: false,
 		infinite: true,
 //		fade: true,
-		speed: 900,
+		speed: 1100,
 		slidesToShow: 1,
 		slidesToScroll: 1,
 		prevArrow: "<a href='#' class='slider-arrow prev-arrow'></a>",
